@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+           "nombre_completo":"Brenda Galindo",
+           "numero_credito":"1",
+           "parcialidad1":"$10",
+           "parcialidad2":"$20",
+           "parcialidad3":"$30",
+           "parcialidad4":"0",
+           "monto":"$80",
+           "cuenta_liquidada":"No"
+
+       },
+          {
+              "id":1,
+               "nombre_completo":"Daniel Maytorena",
+               "numero_credito":"1",
+              "parcialidad1":"$50",
+            "parcialidad2":"0",
+           "parcialidad3":"0",
+           "parcialidad4":"0",
+              "monto":"$300",
+              "cuenta_liquidada":"No"
+           },
+            {
+                 "id":2,
+                  "nombre_completo":"Andrea Hernandez",
+                  "numero_credito":"1",
+                  "parcialidad1":"$500",
+                "parcialidad2":"$50",
+                "parcialidad3":"$50",
+                 "parcialidad4":"$400",
+                  "monto":"$1000",
+                  "cuenta_liquidada":"Si"
+
+                  
+              }
+            ]
